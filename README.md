@@ -1,37 +1,16 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"/>
-</p>
-
 <!-- Header Section -->
-<table width="100%">
-  <tr>
-    <!-- Left Column: Name & Intro -->
-    <td width="65%" valign="middle">
-
-### Hi 👋, I'm **Nardos Behailu**
-
-<em>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=6c5ce7&width=400&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" />
-</em>
-
 <p align="center">
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
-</a>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80"/>
 </p>
 
 <p align="center">
-<em>Information Systems Student | Full-Stack Developer | Cybersecurity Enthusiast</em>
+  <img align="right" src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius:50%; margin-left:20px;"/>
+  <strong><font size="6">Hi, I'm Nardos Behailu</font></strong><br>
+  <em>Information Systems Student | Full-Stack Developer | Cybersecurity Enthusiast</em><br><br>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
 </p>
-
-    </td>
-
-    <!-- Right Column: Profile Picture -->
-    <td width="35%" valign="middle" align="center">
-      <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Nardos Behailu" width="150" style="border-radius:50%;"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -52,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nardos124&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardos124&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nardos124&show_icons=true&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardos124&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
@@ -74,7 +53,7 @@
 
 ---
 
-## 🎨 Fun Animated Section
+## 🎨 Fun Section
 
 <p align="center">
 <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300"/>
