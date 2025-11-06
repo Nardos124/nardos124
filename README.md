@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120"/>
+  <img src="kir.png" width="120"/>
 </p>
 <div display="flex" flex-direction="row">
 <h1 align="center">Hi 👋, I'm <strong>Nardos Behailu</strong></h1>
 <h3 align="center">
   <em >
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=6c5ce7&width=450&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=580&color=6c5ce7&width=450&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" />
   </em>
 </h3>
 </div>
