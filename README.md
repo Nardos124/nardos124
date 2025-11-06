@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <em>
-    <span id="typing"></span>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=6c5ce7&width=400&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" />
   </em>
 </h3>
 
@@ -40,6 +40,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nardos124&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardos124&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## ⚡ Fun / Animated Section
 
 <p align="center">
@@ -48,35 +57,16 @@
 
 ---
 
-<!-- Typing Animation Script -->
-<script>
-const messages = ["Full-Stack Developer", "Cybersecurity Enthusiast", "IT Technician"];
-let i = 0, j = 0;
-let currentMessage = "";
-let isDeleting = false;
-const speed = 100;
+## 💡 Projects / Quick Links
 
-function typeEffect() {
-  const typingElement = document.getElementById("typing");
-  if (!typingElement) return;
-
-  if (!isDeleting && j <= messages[i].length) {
-    currentMessage = messages[i].substring(0, j++);
-    typingElement.innerHTML = currentMessage;
-  } else if (isDeleting && j >= 0) {
-    currentMessage = messages[i].substring(0, j--);
-    typingElement.innerHTML = currentMessage;
-  }
-
-  if (j === messages[i].length) {
-    isDeleting = true;
-    setTimeout(typeEffect, 1000);
-  } else if (j === 0 && isDeleting) {
-    isDeleting = false;
-    i = (i + 1) % messages.length;
-  }
-  setTimeout(typeEffect, speed);
-}
-
-typeEffect();
-</script>
+<p align="center">
+  <a href="https://github.com/nardos124?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Projects-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/your-telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
