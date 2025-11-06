@@ -5,10 +5,10 @@
 
 <p align="center">
   <img align="right" src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius:50%; margin-left:20px;"/>
-  <strong><font size="6">Hi, I'm Nardos Behailu</font></strong><br>
+<br>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=6c5ce7&width=400&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" /><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=500&color=6c5ce7&width=400&lines=Hi,+I'm Nardos+Behailu;Full-Stack+Developer;Cybersecurity+Enthusiast;IT+Technician" /><br><br>
 
   <em>Information Systems Student | Full-Stack Developer | Cybersecurity Enthusiast</em><br><br>
 
