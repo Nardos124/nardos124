@@ -3,9 +3,15 @@
 <tr>
   <!-- Left Column: Profile Picture -->
   <td width="40%" align="center" valign="top">
-    <img src="https://github.com/Nardos124/Nardos124/blob/main/images/kir.png" width="220" style="border-radius:50%; margin-top:20px;" alt="Nardos Profile"/>
-    <br><br>
-    <strong>📍 Addis Ababa, Ethiopia</strong>
+   <img 
+    src="https://github.com/Nardos124/Nardos124/blob/main/images/kir.png" 
+    alt="Nardos Profile"
+    width="200"
+    style="border-radius:50%; display:block; margin:auto;"
+  />    <br><br>
+    <strong>📍 Addis Ababa, Ethiopia</strong><br>
+    <strong>📍Dessie, Ethiopia</strong><br>
+    <strong>📍 BahirDar, Ethiopia</strong><br>
   </td>
 
   <!-- Right Column: Info & Animation -->
@@ -57,13 +63,13 @@
 
   <!-- Contact -->
   <p align="center">
-  <a href="https://www.linkedin.com/in/nardos-behailu" target="_blank">
+  <a href="https://www.linkedin.com/in/nardos-behailu" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/@markinalds" target="_blank">
+  <a href="https://t.me/markinalds" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:johnneah124@gmail,com">
+  <a href="mailto:johnneah124@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   </p>
