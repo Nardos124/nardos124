@@ -1,34 +1,30 @@
 <!-- Header Section -->
-
-  <!-- Typing Animation: Name + Fields together -->
 <table>
 <tr>
-<td width="220"  align="center">
-  <!-- Profile Image on the left -->
-  <img src="https://raw.githubusercontent.com/Nardos124/nardos124/main/images/me.png
-" width="200"  style="border-radius:50%;"/>
+<td width="180" align="center">
+  <!-- Profile Image (smaller, rounded) -->
+  <img src="https://github.com/Nardos124/Nardos124/blob/main/images/kir.png" width="150" style="border-radius:50";/>
 </td>
+
 <td align="left" valign="middle">
-  <!-- Name + Rotating Roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=500&color=6c5ce7&width=770&lines=Hi,+I'm+Nardos+Behailu+|+Full-Stack+Developer;Hi,+I'm+Nardos+Behailu+|+UI/UX+Designer;Hi,+I'm+Nardos+Behailu+|+IT+Technician" />
-  
-  <p>
-
-
-
-<p align="center">
+  <!-- Typing Animation: Name static + Roles rotating -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=6c5ce7&width=600&lines=Hi,+I'm+Nardos+Behailu+|+Full-Stack+Developer;Hi,+I'm+Nardos+Behailu+|+UI/UX+Designer;Hi,+I'm+Nardos+Behailu+|+IT+Technician;Hi,+I'm+Nardos+Behailu+|+Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <br>
+  <em>Information Systems Student | Passionate about building secure & scalable web solutions.</em>
+  <br><br>
   <!-- Portfolio Button -->
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Skills & Technologies
 
 <p align="center">
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
@@ -56,7 +52,6 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Docker-Coming%20Soon-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -70,16 +65,16 @@
 
 ---
 
-## 🔗 Social & Contact
+## 🔗 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://t.me/your-telegram" target="_blank">
+<a href="https://t.me/YOUR-TELEGRAM" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
