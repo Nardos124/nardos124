@@ -9,20 +9,24 @@
     width="200"
     style="border-radius:50%; display:block; margin:auto;"
   />    <br><br>
-    <strong>📍 Addis Ababa, Ethiopia</strong><br>
-    <strong>📍Dessie, Ethiopia</strong><br>
-    <strong>📍 BahirDar, Ethiopia</strong><br>
+   <strong>📍 Bahir Dar, Ethiopia (from Dessie)</strong>
+  <br>
+    
   </td>
 
   <!-- Right Column: Info & Animation -->
-  <td width="60%" align="center" valign="top">
+  <td width="80%" align="center" valign="top">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=6C5CE7&width=600&lines=Hi,+I'm+Nardos+Behailu;Full-Stack+Developer;UI/UX+Designer;IT+Technician;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=1000&color=6C5CE7&width=600&lines=Hi,+I'm+Nardos+Behailu;a+Junior+Full-Stack+Developer" alt="Typing SVG"/>
 
   <br>
   <em>Information Systems Student | Passionate about building secure & scalable digital solutions.</em>
   <br><br>
-
+ <ul>
+   <li>Junior UI/UX designer</li>
+   <li> cybersecurity enthusiastic</li>
+   <li>IT Basic</li>
+ </ul>
   <!-- Portfolio Button -->
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white"/>
