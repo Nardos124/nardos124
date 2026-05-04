@@ -14,18 +14,16 @@
   <br><br>
 
   <strong>💡 Focus Areas:</strong>
-  <br>
-  • Full-Stack Development  
-  <br>
-  • Backend Systems & APIs  
-  <br>
-  • AI Training & Data Annotation  
-  </td>
+
+ <P> • Full-Stack Development  </P>
+  
+   <P>• Backend Systems & APIs  </P> 
+
 
   <!-- Right Column -->
   <td width="80%" align="center" valign="top">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=6C5CE7&width=600&lines=Hi,+I'm+Nardos+Behailu;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=6C5CE7&width=600&lines=Hi,+I'm+Nardos+Behailu;Full-Stack+Developer" alt="Typing SVG"/>
 
   <br>
   <em>Information Systems Student focused on building scalable backend systems and contributing to AI-driven solutions.</em>
@@ -56,45 +54,19 @@
   <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge"/>
   </p>
 
-  <!-- AI Related -->
-  <h3>🤖 AI & Data Experience</h3>
-  <p align="left">
-  • Data annotation and labeling  
-  <br>
-  • Data cleaning and validation  
-  <br>
-  • Understanding model behavior and outputs  
-  <br>
-  • Attention to detail in structured tasks  
-  </p>
-
-  <!-- Projects Section -->
-  <h3>📌 Projects</h3>
-  <p align="left">
-  • Built full-stack web apps using MERN stack  
-  <br>
-  • Designed REST APIs with authentication (JWT)  
-  <br>
-  • Implemented role-based access control systems  
-  <br>
-  </p>
 
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://nardos124.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-6C5CE7?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nardos124&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardos124&layout=compact&theme=radical" width="48%"/>
-  </p>
+
+ 
 
   <br>
 
-  <!-- Contact -->
   <p align="center">
   <a href="https://www.linkedin.com/in/nardos-behailu" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
